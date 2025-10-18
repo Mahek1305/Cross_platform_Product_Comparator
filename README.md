@@ -39,8 +39,8 @@ tqdm
 
 
 ## 🖼️ Output
-
-
+![image alt](https://github.com/Mahek1305/Cross_platform_Product_Comparator/blob/f0fc5846f252d1d58a45f0135d7af1e05aa0f46b/Output1.jpg )
+![image alt](https://github.com/Mahek1305/Cross_platform_Product_Comparator/blob/f0fc5846f252d1d58a45f0135d7af1e05aa0f46b/output2.jpg)
 
 # 🚀 Future Improvements
 * Add **more platforms** (Ajio, TataCliq)
