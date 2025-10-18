@@ -13,9 +13,7 @@ The app:
 It helps users **find the same or similar products at better prices** across different platforms.
 
 # ⚙️ Requirements
-Make sure you have the following installed:
-
-# 🧩 Python Libraries
+**Python Libraries:**
 streamlit
 selenium
 webdriver-manager
