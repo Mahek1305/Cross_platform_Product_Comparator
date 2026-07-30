@@ -1,0 +1,9 @@
+streamlit
+pandas
+Pillow
+selenium
+webdriver-manager
+requests
+beautifulsoup4
+ImageHash
+tqdm
